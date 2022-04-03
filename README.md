@@ -25,9 +25,8 @@
  ## Redes sociais
 <div>
  <a href = "mailto:lucs.h09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-    ![Snake animation](https://github.com/lucassius/lucassius/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
+  
+   ![Snake animation](https://github.com/Lucassius/Lucassius/blob/output/github-contribution-grid-snake.svg)
   
 
