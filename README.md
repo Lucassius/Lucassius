@@ -1,9 +1,9 @@
 ### Olá. Sou o Lucas Henrique, técnico em Automação Industrial pelo COLTEC-UFMG
 
-- 🔭 Eu atualmente trabalho com desenvolvimento back-end e front-end !
-- 🌱 Estou aprendendo CyberSecurity e C#
+- 🔭 Eu atualmente trabalho em projetos de renderização de mapas topográficos utilizando Python
+- 🌱 Estou aprendendo: Machine Learning & AI
 - 📫 Contate-me no email: lucs.h09@gmail.com
-- ⚡ Fun fact: Eu amo todas as variantes de JavaScript...
+- ⚡ Fun fact: Amo, de paixão, flores 
 
 <div align="center">
   <a href="https://github.com/Lucassius">
