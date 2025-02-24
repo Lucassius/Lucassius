@@ -1,4 +1,4 @@
-### Olá. Sou o Lucas Henrique, técnico em Automação Industrial pelo COLTEC-UFMG e aluno do curso de Matemática - UFMG
+### Olá. Sou o Lucas Henrique, técnico em Automação Industrial pelo COLTEC-UFMG e aluno do curso de Sistemas de Informação na USP
 
 - 🔭 Atualmente trabalhando em aplicações ASP.NET MVC
 - 🌱 Estou aprendendo: Python
