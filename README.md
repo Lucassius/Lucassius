@@ -1,10 +1,6 @@
 ### Olá. Sou o Lucas Henrique, técnico em Automação Industrial pelo COLTEC-UFMG e aluno do curso de Sistemas de Informação na USP
 
-- 🔭 Atualmente trabalhando em aplicações ASP.NET MVC
-- 🌱 Estou aprendendo: Python
-- 📫 Contate-me no email: lucs.h09@gmail.com
-- ⚜️ Fun fact: Amo, de paixão, flores 
-  
+- 🔭 Apaixonado por cosmologia;
   ###
  ## Redes sociais
 <div>
